@@ -39,7 +39,7 @@ User Query
     ↓
 SentenceTransformer (Python)
     ↓
-384-dimensional Embedding
+Dimensional Embeddings
     ↓
 Endee Vector Database (Docker)
     ↓
@@ -152,3 +152,4 @@ Run all cells to ingest documents and perform semantic search.
 This project demonstrates a complete, minimal, and production-style semantic search system using **Endee** as a vector database. It highlights modern AI system design principles where pretrained models, vector databases, and containerized services work together.
 
 ---
+
