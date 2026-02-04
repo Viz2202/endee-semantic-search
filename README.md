@@ -152,7 +152,3 @@ Run all cells to ingest documents and perform semantic search.
 This project demonstrates a complete, minimal, and production-style semantic search system using **Endee** as a vector database. It highlights modern AI system design principles where pretrained models, vector databases, and containerized services work together.
 
 ---
-
-## Contact
-
-For questions or feedback, reach out via GitHub issues or contact the maintainer.
